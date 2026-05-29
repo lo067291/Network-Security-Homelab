@@ -155,9 +155,14 @@ nmap --script=vuln -Pn 192.168.2.10
 ### Week 2 - Attack & Defense
 | Screenshot | Description |
 |------------|-------------|
-| [Snort Alerts](screenshots/snort-alerts-week2.png) | Snort detecting attacks |
-| [Nmap Results](screenshots/nmap-results-week2.png) | Port scan results |
-| [Ubuntu Server](screenshots/ubuntu-server-running.png) | Target server running |
+| [Snort Ubuntu Alerts](screenshots/Snort%20Ubuntu%20Alerts%20pt1.png) | Snort detecting Ubuntu attacks |
+| [Snort Nmap pt1](screenshots/Snort%20nmap%20pt1.png) | Nmap scan detected by Snort |
+| [Snort Nmap pt2](screenshots/Snort%20nmap%20pt2.png) | Nmap scan results continued |
+| [Snort Nmap pt3](screenshots/Snort%20nmap%20pt3.png) | Nmap scan results continued |
+| [Snort Results pt1](screenshots/Snort%20results%20pt1.png) | Snort alert results |
+| [Snort Results pt2](screenshots/Snort%20results%20pt2.png) | Snort alert results continued |
+| [Ubuntu Scan pt1](screenshots/Ubuntu%20Scan%20Detailed%20pt1.png) | Detailed Ubuntu vulnerability scan |
+| [Ubuntu Scan pt2](screenshots/Ubuntu%20Scan%20Detailed%20pt2.png) | Detailed Ubuntu vulnerability scan continued |
 
 ---
 
